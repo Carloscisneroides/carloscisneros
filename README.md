@@ -1,19 +1,19 @@
-# Veterinaria - Sistema de Registro de Dueños y Mascotas
+# 🐾 Veterinaria - Sistema de Registro de Dueños y Mascotas 🐶🐱
 
-## Descripción del proyecto
+## 📋 Descripción del proyecto
 
-Este proyecto es una aplicación sencilla para gestionar el registro de dueños y sus mascotas en una veterinaria. Permite registrar nuevos dueños, registrar mascotas asociadas a esos dueños, y buscar mascotas por nombre. La interfaz es mediante ventanas emergentes (`prompt` y `alert`) para facilitar la interacción básica sin necesidad de una interfaz gráfica compleja.
+Esta aplicación sencilla permite gestionar el registro de **dueños** y sus **mascotas** en una veterinaria. Puedes registrar nuevos dueños, agregar mascotas asociadas a ellos y buscar mascotas por nombre. La interacción es mediante ventanas emergentes (`prompt` y `alert`), ideal para un entorno básico y rápido.
 
-## Tecnologías usadas
+## 🛠️ Tecnologías usadas
 
-- **JavaScript**: Lenguaje principal para la lógica de la aplicación.
-- **Navegador web**: La aplicación se ejecuta en el entorno del navegador usando funciones nativas como `prompt`, `alert` y `setTimeout`.
+- 💻 **JavaScript**: Lógica principal de la aplicación.
+- 🌐 **Navegador web**: Uso de funciones nativas como `prompt`, `alert` y `setTimeout`.
 
-## Explicación breve sobre cómo aplicaron asincronía
+## ⏳ Cómo aplicamos asincronía
 
-La aplicación utiliza la función `setTimeout` para simular procesos asincrónicos, como la espera de respuesta o procesamiento al registrar un dueño o una mascota. Esto permite que el menú principal espere un tiempo prudente antes de mostrarse nuevamente, simulando un retardo típico en operaciones reales (como llamadas a bases de datos o servidores). Así, se mejora la experiencia del usuario evitando que el menú se muestre inmediatamente y se pierda la información mostrada en alertas.
+Utilizamos `setTimeout` para simular procesos asincrónicos, como la espera al registrar un dueño o mascota. Esto permite que el menú espere un momento antes de mostrarse de nuevo, simulando tiempos de procesamiento reales y mejorando la experiencia del usuario.
 
-## Capturas de pantalla o GIF (opcional)
+## 📸 Capturas de pantalla 
 
 
 
