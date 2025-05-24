@@ -15,7 +15,7 @@ La aplicación utiliza la función `setTimeout` para simular procesos asincróni
 
 ## Capturas de pantalla o GIF (opcional)
 
-*(Aquí puedes agregar imágenes o GIFs que muestren la aplicación en funcionamiento, por ejemplo, la ventana del menú, el registro de un dueño o mascota, y la búsqueda de mascotas.)*
+
 
 ![Captura de menú principal](media/image.png)
 
