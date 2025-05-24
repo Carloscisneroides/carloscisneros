@@ -67,6 +67,7 @@ const registraMascota = () => {
 
     const estadosValidos = ['Sana', 'Enferma', 'En tratamiento'];
     if (!estadosValidos.includes(estadoSalud)) {
+        
       alert('Error: Estado de salud inválido.');
       return;
     }
